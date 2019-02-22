@@ -22,7 +22,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
  ##### 3. Week3 - Object detection -  
  ##### Papers for read: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOLO](https://arxiv.org/pdf/1612.08242.pdf)
  ##### 4. Week4 - Special applications: Face recognition & Neural style transfer    
- ##### Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf)
+ ##### Papers for read: [DeepFace](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf), [FaceNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Schroff_FaceNet_A_Unified_2015_CVPR_paper.pdf), [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
    
   ### Course 5. [Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
   ##### TBD
