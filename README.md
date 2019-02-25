@@ -13,9 +13,9 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
  
 ### Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
 ##### 1. Week1 - Practical aspects of Deep Learning
-         - Setting up your Machine Learning Application
-         - Regularizing your neural network
-         - Setting up your optimization problem
+- Setting up your Machine Learning Application
+- Regularizing your neural network
+- Setting up your optimization problem
 ##### 2. Week2 - Optimization algorithms
 ##### 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks  
 
