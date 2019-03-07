@@ -6,10 +6,18 @@ AI is transforming multiple industries. I consider this is a highly recommended 
 Instructor: [Andrew Ng, DeepLearning.ai]()
   
  ### Course 1. [Neural Networks and Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
- ##### TBD  
+ ##### 1. Week1 - Introduction to deep learning  
+ ##### 2. Week2 - Neural Networks Basics
+ ##### 3. Week3 - Shallow neural networks
+ ##### 4. Week4 - Deep Neural Networks
  
 ### Course 2. [Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://www.youtube.com/watch?v=1waHlpKiNyY&list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc)
-##### TBD  
+##### 1. Week1 - Practical aspects of Deep Learning
+- Setting up your Machine Learning Application
+- Regularizing your neural network
+- Setting up your optimization problem
+##### 2. Week2 - Optimization algorithms
+##### 3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks  
 
 ### Course 3. [Structuring Machine Learning Projects](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)
 ##### TBD
